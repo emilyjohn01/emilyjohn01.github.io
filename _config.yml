@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://emilyjohn01.github.io
+title: QRG Business Services
+tagline: Get Services from QRG Direct
+description: My awesome new site
+paginate: 5
