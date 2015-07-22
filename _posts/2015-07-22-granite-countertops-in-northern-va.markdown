@@ -26,4 +26,3 @@ Before buying a countertop you must be sure of its usage and the area where you 
 You must always know the difference in the sizes of various areas of your house, do not forget to give them an accurate measurement of your kitchen counter. 
 
 http://www.qrgdirect.com/granite-countertop-installation-northern-va
-
